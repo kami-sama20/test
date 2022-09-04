@@ -5,7 +5,7 @@
 body{
     background: linear-gradient(aqua, azure);
     text-align: center;
-    background-image: url(/Media/web-background-1.jpg);
+    background-image: url(web-background-1.jpg);
     background-attachment:scroll;
     background-size: contain;
 }
@@ -13,7 +13,7 @@ body{
 .div{
     height : 300px ;
     width:60%;
-    background-image: url(Media/Personal-webpage.jpg);
+    background-image: url(Personal-webpage.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     background-position: top;
